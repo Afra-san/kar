@@ -50,7 +50,7 @@
 }
 @media (max-width: 640px) {
     .transform-1 {
-        transform: translate(110%, 100%);
+        transform: translate(108%, 100%);
     }
     .transform-2 {
         transform: translate(80%, 0%);
