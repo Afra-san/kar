@@ -26,7 +26,7 @@ export default function Works() {
             <div className="flex flex-col justify-between w-full lg:flex-row items-center lg:items-center">
                 <div>
                   <div className="img-4 box-size bg-[#D9D9D9] radius"></div>
-                  <h2 className="text-start text-2xl my-4 font-medium">Prototype <p className='font-normal text-xl ml-4 mr-2 bg-stone-400 py-1 transition px-4 rounded-lg hover:bg-stone-300'>Repo</p>/<p className='font-normal text-xl ml-2 bg-stone-400 py-1 transition px-4 rounded-lg hover:bg-stone-300'>Live Demo</p> </h2>
+                  <h2 className="text-start text-2xl my-4 font-medium">Prototype <a href='https://afra-resume.netlify.app/' className='font-normal text-xl ml-4 mr-2 bg-stone-400 py-1 transition px-4 rounded-lg hover:bg-stone-300'>Repo</a>/<a href='https://afra-resume.netlify.app/' className='font-normal text-xl ml-2 bg-stone-400 py-1 transition px-4 rounded-lg hover:bg-stone-300'>Live Demo</a> </h2>
                   <p className="text-start font-light">React js , Next js</p>
                 </div>
                 <div>
@@ -36,7 +36,7 @@ export default function Works() {
                 </div>
                 <div>
                   <div className="img-6 box-size bg-[#D9D9D9] radius"></div>
-                  <h2 className="text-start text-2xl my-4 font-medium">Rimakii Brand <p className='font-normal text-xl ml-4 mr-2 bg-stone-400 py-1 transition px-4 rounded-lg hover:bg-stone-300'>Repo</p>/<p className='font-normal text-xl ml-2 bg-stone-400 py-1 transition px-4 rounded-lg hover:bg-stone-300'>Live Demo</p></h2>
+                  <h2 className="text-start text-2xl my-4 font-medium">Rimakii Brand <a href='https://afra-resume.netlify.app/' className='font-normal text-xl ml-4 mr-2 bg-stone-400 py-1 transition px-4 rounded-lg hover:bg-stone-300'>Repo</a>/<a href='https://afra-resume.netlify.app/' className='font-normal text-xl ml-2 bg-stone-400 py-1 transition px-4 rounded-lg hover:bg-stone-300'>Live Demo</a></h2>
                   <p className="text-start font-light">React js , Figma</p>
                 </div>
             </div>
